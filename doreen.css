@@ -1,0 +1,29 @@
+body{
+  background-color: pink;
+  background-image: url("diapers.png");
+  background-repeat: repeat;
+}
+p{
+  color:blue;
+  font-size: 20px;
+}
+h1{
+  font-family: helvetica;
+  font-size:50px;
+  color:black;
+  text-align: left;
+  font-style: italics;
+  font-weight: 600;
+  background-color: purple;
+}
+a{
+  color: orange;
+}
+img{
+  width: 50%;
+  height: 60%;
+}
+.submit{
+  background-color: #dee7ea;
+  color: #889eab
+}

@@ -1,0 +1,92 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!doctype> html>
+<html>
+<head>
+<title>my project</title>
+<link href="wow.css" rel="stylesheet">
+<h1>doreen diapers manufacturing</h1>
+</head>
+<body>
+  <nav>
+<a href="home.html">home</a>
+<a href="contact.html">contact</a>
+<a href="about_me.html">about_me</a>
+</nav>
+<h1>you  can reach me through;</h1>
+<div class="contact">facebook</div>
+<br>
+<div class="contact">twitter</div>
+<br>
+<div class="contact"><a href="https://www.facebook.com <img src="ig-logo.jpg"class="logo">instagram</div>
+  <br>
+  <div class="contact">web</div>
+</body>
+</html>
